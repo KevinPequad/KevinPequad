@@ -1,25 +1,12 @@
 <div align="center">
   <h1>Hi, I'm Kevin Hagy 👋</h1>
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=FPGA+%26+RTL+video+codecs;Embedded+systems+%26+Linux+tools;Aerospace+hardware-software+integration"
-    alt="Typing animation introducing Kevin's engineering interests"
-  />
-  <p><strong>I build hardware and software that talks to the real world.</strong></p>
+  <p><strong>FPGA/RTL video codecs · embedded systems · Linux tooling · aerospace</strong></p>
+  <img src="./assets/kevin-hud.gif" width="190" alt="Doom-inspired pixel portrait of Kevin Hagy">
+  <h3>Currently at</h3>
+  <a href="https://www.fronteraspace.com/">
+    <img src="./assets/frontera-space-logo-card.svg" width="220" alt="Frontera Space">
+  </a>
 </div>
-
-## What I'm building
-
-<img align="right" width="235" src="./assets/kevin-hud.gif" alt="Doom-inspired pixel portrait of Kevin Hagy">
-
-- 🎞️ Developing synthesizable **H.264 and AV1 encoder RTL**, with reproducible simulation and decoder validation.
-- 🛰️ Building a browser-controlled **3D scan-to-inventory workflow for aerospace parts**.
-- 🔌 Turning a classic **ESP32 into a Linux Wi-Fi adapter** over USB serial PPP.
-- 🐧 Making practical **Linux voice-input and automation tools**.
-- 🧠 Exploring **FPGA/PCIe/DMA, embedded networking, and hardware-software co-design**.
-- 🔒 Some of my active systems work stays private by design; the public repositories below show the engineering direction.
-- 💬 Ask me about **Verilog, video codecs, Linux, ESP32, or debugging across the hardware/software boundary**.
-
-<br clear="right">
 
 ## Technologies I work with
 
@@ -52,7 +39,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-## Featured public projects
+## Selected public repositories
 
 - [**H.264 RTL Encoder**](https://github.com/KevinPequad/h264-rtl-encoder) — synthesizable H.264/AVC RTL with Verilator, FFmpeg validation, and RTL-owned Annex B output.
 - [**AV1 RTL Encoder**](https://github.com/KevinPequad/AV1-rtl-encoder) — an end-to-end AV1 encoder implementation focused on RTL-owned, standards-decodable output.
@@ -63,22 +50,12 @@
 ## GitHub snapshot
 
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KevinPequad&theme=transparent" alt="Kevin's public GitHub statistics">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KevinPequad&theme=transparent" alt="Language mix by repository in Kevin's public GitHub projects">
+  <img height="180" src="https://github-readme-stats-one-lemon-69.vercel.app/api?username=KevinPequad&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent" alt="Kevin's GitHub statistics and rank">
+  <img height="180" src="https://github-readme-stats-one-lemon-69.vercel.app/api/top-langs/?username=KevinPequad&include_all_commits=true&show_icons=true&hide_border=true&layout=compact&theme=transparent" alt="Most used languages across Kevin's public GitHub code">
 </div>
-
-## Contribution trail
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KevinPequad/KevinPequad/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KevinPequad/KevinPequad/output/github-contribution-grid-snake.svg">
-  <img alt="Animated snake moving through Kevin's GitHub contribution graph" src="https://raw.githubusercontent.com/KevinPequad/KevinPequad/output/github-contribution-grid-snake.svg">
-</picture>
 
 <p align="center">
   <a href="https://github.com/KevinPequad">
     <img src="https://img.shields.io/badge/Explore_my_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Kevin's GitHub repositories">
   </a>
 </p>
-
-<sub>Layout inspired by <a href="https://github.com/TroyMitchell911">Troy Mitchell</a>; rewritten and personalized for Kevin's work.</sub>
