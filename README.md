@@ -6,7 +6,7 @@
 <div align="center">
   <strong>Currently at <a href="https://www.fronteraspace.com/">Frontera Space</a></strong><br>
   <a href="https://www.fronteraspace.com/">
-    <img src="./assets/frontera-space-logo-card.svg" width="78" alt="Frontera Space">
+    <img src="./assets/frontera-space-logo-card.svg" width="120" alt="Frontera Space">
   </a>
 </div>
 
