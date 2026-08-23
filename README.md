@@ -5,12 +5,13 @@
 
 ## Currently at
 
-<a href="https://www.fronteraspace.com/">
-  <img align="right" src="./assets/frontera-space-logo-card.svg" width="120" alt="Frontera Space">
-</a>
-
-[Frontera Space](https://www.fronteraspace.com/)
-<br clear="right">
+<p>
+  <a href="https://www.fronteraspace.com/">
+    <img align="right" src="./assets/frontera-space-logo-card.svg" width="88" alt="Frontera Space">
+  </a>
+  <strong><a href="https://www.fronteraspace.com/">Frontera Space</a></strong>
+  <br clear="right">
+</p>
 
 ## Technologies I work with
 
@@ -37,9 +38,9 @@
 
 ## GitHub snapshot
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats-one-lemon-69.vercel.app/api?username=KevinPequad&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent" alt="Kevin's GitHub statistics and rank">
-  <img height="180" src="https://github-readme-stats-one-lemon-69.vercel.app/api/top-langs/?username=KevinPequad&include_all_commits=true&show_icons=true&hide_border=true&layout=compact&theme=transparent" alt="Most used languages across Kevin's public GitHub code">
+<div align="left">
+  <img height="132" src="https://github-readme-stats-one-lemon-69.vercel.app/api?username=KevinPequad&include_all_commits=true&show_icons=true&hide_border=true&theme=transparent" alt="Kevin's GitHub statistics and rank">
+  <img height="132" src="https://github-readme-stats-one-lemon-69.vercel.app/api/top-langs/?username=KevinPequad&include_all_commits=true&show_icons=true&hide_border=true&layout=compact&theme=transparent" alt="Most used languages across Kevin's public GitHub code">
 </div>
 
 ## Contribution Trail
