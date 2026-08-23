@@ -3,15 +3,12 @@
   <img src="./assets/kevin-hud.gif" width="190" alt="Doom-inspired pixel portrait of Kevin Hagy">
 </div>
 
-## Currently at
-
-<p>
+<div align="center">
+  <strong>Currently at <a href="https://www.fronteraspace.com/">Frontera Space</a></strong><br>
   <a href="https://www.fronteraspace.com/">
-    <img align="right" src="./assets/frontera-space-logo-card.svg" width="88" alt="Frontera Space">
+    <img src="./assets/frontera-space-logo-card.svg" width="78" alt="Frontera Space">
   </a>
-  <strong><a href="https://www.fronteraspace.com/">Frontera Space</a></strong>
-  <br clear="right">
-</p>
+</div>
 
 ## Technologies I work with
 
@@ -43,13 +40,12 @@
   <img height="132" src="https://github-readme-stats-one-lemon-69.vercel.app/api/top-langs/?username=KevinPequad&include_all_commits=true&show_icons=true&hide_border=true&layout=compact&theme=transparent" alt="Most used languages across Kevin's public GitHub code">
 </div>
 
-## Contribution Trail
+## Token Usage
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KevinPequad/KevinPequad/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KevinPequad/KevinPequad/output/github-contribution-grid-snake.svg">
-  <img alt="Animated snake moving through Kevin's GitHub contribution graph" src="https://raw.githubusercontent.com/KevinPequad/KevinPequad/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center"><sub>Daily activity · static snapshot updated August 23, 2026</sub></p>
+<p align="center">
+  <img src="./assets/codex-usage-heatmap.svg" width="720" alt="Daily token activity shown as privacy-safe relative buckets with a playful pixel-fire frame">
+</p>
 
 <p align="center">
   <a href="https://kevinhagy.com/">
