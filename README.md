@@ -43,7 +43,7 @@
 ## Token Usage
 
 <p align="center">
-  <img src="./assets/token-activity.gif" width="720" alt="Codex token activity with an animated pixel-fire border">
+  <img src="./assets/token-activity.svg" width="720" alt="Codex token activity and usage insights">
 </p>
 
 <p align="center">
