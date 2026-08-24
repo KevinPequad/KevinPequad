@@ -43,7 +43,7 @@
 ## Token Usage
 
 <p align="center">
-  <img src="./assets/token-activity.svg" width="720" alt="Codex token activity and usage insights">
+  <img src="./assets/token-activity.svg" width="720" alt="Codex token activity">
 </p>
 
 <p align="center">
