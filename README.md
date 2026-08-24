@@ -40,11 +40,10 @@
   <img height="132" src="https://github-readme-stats-one-lemon-69.vercel.app/api/top-langs/?username=KevinPequad&include_all_commits=true&show_icons=true&hide_border=true&layout=compact&theme=transparent" alt="Most used languages across Kevin's public GitHub code">
 </div>
 
-## Token Usage
+## Token Usage Heat Map
 
-<p align="center"><sub>Daily activity · static snapshot updated August 23, 2026</sub></p>
 <p align="center">
-  <img src="./assets/codex-usage-heatmap.svg" width="720" alt="Daily token activity shown as privacy-safe relative buckets with a playful pixel-fire frame">
+  <img src="./assets/token-usage-heat-map.png" width="840" alt="Token usage heat map with profile analytics and an animated pixel-fire border">
 </p>
 
 <p align="center">
